@@ -1,0 +1,11 @@
+# Chocolate (dark)
+# Author: Gabriel Dos Santos <dss.gabriel@protonmail.com>
+# Originally made by snakedye: https://gitlab.com/snakedye/chocolate
+# License: MIT License
+# -----------------------------------------------------------------------------
+
+# User interface
+# -----------------------------------------------------------------------------
+inherits = "catppuccin_frappe"
+
+"ui.background" = "white"

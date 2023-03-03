@@ -1,0 +1,8 @@
+[09:09:31 2023-02-02] FETCHING Version 2.16.1
+[09:09:31 2023-02-02] DOWNLOADING https://github.com/spicetify/spicetify-cli/releases/download/v2.16.1/spicetify-2.16.1-darwin-arm64.tar.gz
+[09:09:32 2023-02-02] EXTRACTING /Users/tymek/.spicetify/spicetify.tar.gz
+[09:09:32 2023-02-02] SETTING EXECUTABLE PERMISSIONS TO /Users/tymek/.spicetify/spicetify
+[09:09:32 2023-02-02] REMOVING /Users/tymek/.spicetify/spicetify.tar.gz
+[09:09:32 2023-02-02] spicetify path already set in /Users/tymek/.zshrc, continuing...
+[09:09:32 2023-02-02] spicetify v2.16.1 was installed successfully to /Users/tymek/.spicetify
+[09:09:32 2023-02-02] Run 'spicetify --help' to get started

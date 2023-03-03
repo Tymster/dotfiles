@@ -1,0 +1,32 @@
+theme="s"
+[editor.cursor-shape]
+insert= "bar"
+normal = "block"
+select = "underline"
+
+[editor]
+line-number = "absolute"
+mouse = true
+auto-completion = true
+auto-format = true
+auto-save = true
+
+[editor.file-picker]
+hidden = false
+
+[editor.statusline]
+left = ["mode" , "spinner", "position"]
+center = ["file-name"]
+right = ["diagnostics" , "selections" , "total-line-numbers"]
+separator = "|"
+mode.normal = "NORMAL"
+mode.insert = "INSERT"
+mode.select = "SELECT"
+
+
+[keys.normal]
+C-s = ":w"
+C-c = ":clipboard-yank"
+C-v = ":clipboard-paste-after"
+C-z = ":ear"
+

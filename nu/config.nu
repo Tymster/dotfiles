@@ -1,0 +1,1 @@
+let-env PATH = "/usr/local/bin;path2;path3"
